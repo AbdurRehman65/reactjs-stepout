@@ -1,2 +1,2 @@
 # reactjs-stepout
-Step Our Application
+Step Out Application
